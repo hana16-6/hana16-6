@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hana Mohamed</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Udacity project-React**
+- 🔭 I’m currently working on **Udacity project at React professional track**
 
 - 🌱 I’m currently learning **Node.js - mongoDB**
 
 - 👯 I’m looking to collaborate on **enormous projects**
 
+- 🧠 Graduated from **Information Technology Institute**.
+
+- 👩‍💻 I'm interested in **Problem Solving ,Data Structure, Algorithms and learing everything I'm curious about** 
+
 - 🤝 I’m looking for help with **finding a good job**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **anything I'm always curious to know**
 
 - 📫 How to reach me **hanaamohamed632@gmail.com**
 
