@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hana Mohamed</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
+<img src="https://cdn.dribbble.com/users/213082/screenshots/1915397/media/30d665369309febc9c6ddd188964e93a.jpg" />
+
 - 🔭 I’m currently working on **Udacity project at React professional track**
 
 - 🌱 I’m currently learning **Node.js - mongoDB**
