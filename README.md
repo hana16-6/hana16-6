@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hana Mohamed</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<div><img align="center" src="https://i.pinimg.com/564x/57/35/75/573575b714e37088d18a8530bafb5814.jpg" /></div>
+<div align="center"><img align="center" src="https://i.pinimg.com/564x/57/35/75/573575b714e37088d18a8530bafb5814.jpg" /></div>
 
 - 🔭 I’m currently working on **Udacity project at React professional track**
 
