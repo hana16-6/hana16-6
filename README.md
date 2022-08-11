@@ -20,7 +20,7 @@
 - 📫 How to reach me **hanaamohamed632@gmail.com**
 - 🤳 LinkedIn **https://www.linkedin.com/in/hana-mohamed16**
 - 🕵🏻‍♀️ portfolio **https://my-portfolio-hana.vercel.app/**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1faOF6JXUIxnqmTascNEZ2TPrAKdgOY2n/view?usp=sharing](https://drive.google.com/file/d/1faOF6JXUIxnqmTascNEZ2TPrAKdgOY2n/view?usp=sharing)
+- 📄 Know about my experiences and read CV: https://drive.google.com/file/d/1tqwDHXOBlUFZ59dt0CRdBVFobIwkXzCh/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
